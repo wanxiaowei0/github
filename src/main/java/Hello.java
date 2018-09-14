@@ -7,7 +7,7 @@ public class Hello {
 		System.out.println("host_fix今天怎么不开心");
 		System.out.println("明天怎么不开心");
 		System.out.println("后天怎么不开心");
-		System.out.println("大后天怎么不开心");
+		System.out.println("老子不干了");
 	}
 
 }
