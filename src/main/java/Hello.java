@@ -4,5 +4,6 @@
 public class Hello {
 	public static void main（String[] args）{
 		System.out.println("今天怎么不开心");
+		System.out.prinyln("host_fox怎么不开心");
 	}
 }
