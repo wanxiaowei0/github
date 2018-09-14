@@ -5,7 +5,7 @@ public class Hello {
 	public static void main（String[] args）{
 		System.out.println("今天怎么不开心");
 		System.out.println("host_fix今天怎么不开心");
-		System.out.println("明天怎么不开心");
+		System.out.println("大后天怎么不开心");
 	}
 
 }
